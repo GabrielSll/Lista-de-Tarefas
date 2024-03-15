@@ -10,9 +10,9 @@ O nome é autoexplicativo...
 - Rodar o arquivo com live server.
 
 <img src = "screenshots/telaInicial.png">
-<img src = "screenshots/itemAdicionado.png">
-<img src = "screenshots/itemConcluido.png">
-<img src = "screenshots/doisItens.png">
+<img src = "screenshots/itemAdicionado.PNG">
+<img src = "screenshots/itemConcluido.PNG">
+<img src = "screenshots/doisItens.PNG">
 
 ## Tecnologias e Dependências
 
