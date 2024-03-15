@@ -9,10 +9,10 @@ O nome é autoexplicativo...
 - Abrir a pasta no seu vscode ou outro
 - Rodar o arquivo com live server.
 
-<img src = "imagens/bulbasaur.jpg">
-<img src = "imagens/charmander.jpg">
-<img src = "imagens/pikachu.jpg">
-<img src = "imagens/scyther.jpg">
+<img src = "screenshots/telaInicial.png">
+<img src = "screenshots/itemAdicionado.png">
+<img src = "screenshots/itemConcluido.png">
+<img src = "screenshots/doisItens.png">
 
 ## Tecnologias e Dependências
 
